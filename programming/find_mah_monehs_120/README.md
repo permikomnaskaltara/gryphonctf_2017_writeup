@@ -8,6 +8,10 @@
 `nc prog.chal.gryphonctf.com 17454`
 _Creator - @Platy_
 
+**Hint:**
+
+>PATH FINDIN ALGORITHM M8
+
 ## Write-up
 This challenge is by a certain mammal, mainly testing on the knowledge of pathfinding algorithms. However, as a wise old man once said to me, there's no reason to reinvent a perfectly in-shape Goodyear.
 
